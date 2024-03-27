@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello DevOps V6 !!!");
+        System.out.println("Hello DevOps V7 !!!");
     }
 }
