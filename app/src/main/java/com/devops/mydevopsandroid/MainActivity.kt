@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
 
 
         // add comment
+        // add second commit
         
         setSupportActionBar(binding.appBarMain.toolbar)
 
